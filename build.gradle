@@ -46,6 +46,12 @@ dependencies {
 
     implementation "io.github.stephankoelle:jamm:0.4.1"
 
+    shadow "com.electronwill.night-config:core:3.6.5"
+    shadow "com.electronwill.night-config:toml:3.6.5"
+    shadow "com.electronwill.night-config:yaml:3.6.5"
+    shadow "com.electronwill.night-config:hocon:3.6.5"
+    shadow "com.electronwill.night-config:json:3.6.5"
+
     shadow "icyllis.modernui:ModernUI-Core:${modernui_version}"
 
     shadow "com.vladsch.flexmark:flexmark:${flexmark_version}"

@@ -29,6 +29,7 @@ import it.unimi.dsi.fastutil.floats.FloatArrayList;
 import it.unimi.dsi.fastutil.ints.IntArrayList;
 import it.unimi.dsi.fastutil.longs.LongArrayList;
 import it.unimi.dsi.fastutil.shorts.ShortArrayList;
+import net.minecraft.nbt.*;
 import net.minecraft.network.FriendlyByteBuf;
 
 import javax.annotation.Nonnull;

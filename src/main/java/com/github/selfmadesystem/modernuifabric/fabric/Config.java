@@ -19,6 +19,8 @@
 package com.github.selfmadesystem.modernuifabric.fabric;
 
 import com.electronwill.nightconfig.core.file.CommentedFileConfig;
+import com.github.selfmadesystem.modernuifabric.fabric.forgeConfigCopyPasteLol.ForgeConfigSpec;
+import com.github.selfmadesystem.modernuifabric.fabric.forgeConfigCopyPasteLol.IConfigSpec;
 import com.mojang.blaze3d.platform.Window;
 import icyllis.modernui.ModernUI;
 import icyllis.modernui.core.Core;
@@ -41,7 +43,6 @@ import javax.annotation.Nonnull;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
-import net.minecraftforge.common.ForgeConfigSpec;
 import net.minecraftforge.fml.ModContainer;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.config.*;
